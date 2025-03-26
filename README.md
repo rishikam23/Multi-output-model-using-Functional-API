@@ -11,12 +11,6 @@ The dataset used is the **Energy Efficiency Dataset** from the UCI Machine Learn
 - The dataset contains various building parameters such as relative compactness, surface area, wall area, roof area, overall height, orientation, glazing area, and glazing area distribution.
 - The targets (`Y1` and `Y2`) represent **heating load** and **cooling load**, respectively.
 
-## Project Structure
-```
-├── multi_output_model_using_functional_api.py  # Main script for model implementation
-├── README.md                                   # Project documentation
-```
-
 ## Dependencies
 Ensure you have the following Python libraries installed:
 ```bash
